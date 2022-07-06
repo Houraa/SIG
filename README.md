@@ -5,7 +5,6 @@
   - high visual fidelity (we want your diagrams to be pretty, even when printed)
   - supports the [SIG tool V.0.0.1 standard]
 
-Currently, this tool is deployed at http://www.cin.ufpe.br/~jhcp/pistar/
 
 
 For further information please contact houra at yorku dot ca
